@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559688450512",
+    "firebase_url": "https://projpdm-67491.firebaseio.com",
+    "project_id": "projpdm-67491",
+    "storage_bucket": "projpdm-67491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559688450512:android:df4ed524ef57f8736a39d5",
+        "android_client_info": {
+          "package_name": "com.example.aminappv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559688450512-he4jldg2lvefbd5u3ntn3ns9daho7qfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-1YcQ3llXJLfGZeF403wepwKBC9N-ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559688450512-he4jldg2lvefbd5u3ntn3ns9daho7qfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
